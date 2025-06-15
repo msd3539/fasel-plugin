@@ -1,10 +1,8 @@
 [
   {
-    "name": "FaselHDX",
-    "description": "مشاهدة أفلام ومسلسلات من موقع فاصل إعلاني.",
+    "name": "FaselHD",
+    "description": "Plugin for streaming movies from FaselHD.",
     "version": "1.0.0",
-    "file": "fasel.apk",
-    "language": "ar",
-    "type": "movie"
+    "url": "https://github.com/msd3539/fasel-plugin/releases/download/v1.0.0/fasel.apk"
   }
 ]
